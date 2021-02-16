@@ -5,7 +5,7 @@ header{
 }
 
 .logo {
-    background: url("https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/blob/master/03-adding-profile-pic/assets/images/rosie.jpg");
+    background: url("../images/rosie.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
